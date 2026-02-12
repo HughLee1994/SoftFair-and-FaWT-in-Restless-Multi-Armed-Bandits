@@ -1,1 +1,0 @@
-run policy.py
