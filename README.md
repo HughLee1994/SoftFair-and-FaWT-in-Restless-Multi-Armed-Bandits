@@ -101,7 +101,11 @@ pip install -r requirements.txt
 python policy.py
 ```
 
+## Acknowledgment
 
+This implementation builds upon and is substantially inspired by the design and execution 
+framework of [collapsing_bandits](https://github.com/AdityaMate/collapsing_bandits). 
+We gratefully acknowledge the authors for making their code publicly available.
 
 ## Citation
 
